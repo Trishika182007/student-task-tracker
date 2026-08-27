@@ -10,7 +10,7 @@ while(true){
 cout<<"\n==== STUDENT TASK TRACKER ====\n";
 cout<<"1. Add new tasks\n";
 cout<<"2. Display tasks\n";
-cout<<"3. Finsih tasks\n";
+cout<<"3. Complete task\n";
 cout<<"4. Quit\n";
 cout<<"Enter choice: ";
 cin>>choice;
