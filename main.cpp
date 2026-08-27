@@ -8,10 +8,10 @@ vector<bool> completed;
 int choice;
 while(true){
 cout<<"\n==== STUDENT TASK TRACKER ====\n";
-cout<<"1. Add task\n";
-cout<<"2. View tasks\n";
-cout<<"3. Mark task as completed\n";
-cout<<"4. Exit\n";
+cout<<"1. Add new tasks\n";
+cout<<"2. Display tasks\n";
+cout<<"3. Finsih tasks\n";
+cout<<"4. Quit\n";
 cout<<"Enter choice: ";
 cin>>choice;
 cin.ignore();
